@@ -11,10 +11,14 @@ sections:
         self:
           fontWeight: 500
     subtitle: Quality dental care you can trust
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      A Ninde Dental Centre appointment is care you control.
+
+      Every consultation is personalized with advanced tools and expert insight.
+
+      From check-ups to full treatments, everything just works —
+
+      seamlessly, comfortably, confidently.
     actions:
       - label: Get started
         altText: ''
