@@ -54,6 +54,8 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+      subtitle:
+        fontStyle: italic
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
