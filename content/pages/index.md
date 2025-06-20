@@ -77,7 +77,7 @@ sections:
         altText: Rangle logo
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/ig8 (1).jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
