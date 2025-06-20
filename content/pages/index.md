@@ -56,7 +56,7 @@ sections:
           - pr-16
       subtitle:
         fontStyle: italic
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Our Smiles Gallery
     images:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
