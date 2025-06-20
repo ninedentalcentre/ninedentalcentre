@@ -178,8 +178,7 @@ sections:
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/ig2.jpg
-        altText: Vise logo
+      - altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
