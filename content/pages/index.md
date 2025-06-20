@@ -63,7 +63,7 @@ sections:
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-      - url: /images/ig5 (1).jpg
+      - url: /images/ig5 (1) (1).jpg
         altText: Telus logo
         type: ImageBlock
       - url: /images/ig3 (1).jpg
