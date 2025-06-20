@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Nine Dental Centre Redefine your smile Restore your confidence
+      text: 'Nine Dental Centre Redefine your smile '
       color: text-dark
       type: TitleBlock
       styles:
