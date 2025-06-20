@@ -9,7 +9,8 @@
                 ],
                 "padding": [
                     "pt-0"
-                ]
+                ],
+                "borderRadius": "xx-small"
             }
         },
         "type": "ImageBlock"
