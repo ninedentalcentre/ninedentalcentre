@@ -13,7 +13,8 @@
                 "borderWidth": 1
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/ndc logo.jpg"
     },
     "primaryLinks": [
         {
