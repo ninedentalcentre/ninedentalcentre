@@ -58,7 +58,7 @@ sections:
         fontStyle: italic
   - subtitle: Our Smiles Gallery
     images:
-      - url: /images/wellster-logo.svg
+      - url: /images/ig7 (1).jpg
         altText: Wellster logo
         type: ImageBlock
       - altText: Vise logo
