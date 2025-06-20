@@ -6,6 +6,9 @@
             "self": {
                 "margin": [
                     "mr-3"
+                ],
+                "padding": [
+                    "pt-1"
                 ]
             }
         },
