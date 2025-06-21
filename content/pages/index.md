@@ -118,6 +118,17 @@ sections:
           textAlign: center
           fontWeight: 700
     showExcerpt: false
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          /https://create.netlify.com/studio/6853f1f75747aa00c3360014#/blog/case-study-1/
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - title: Divider
     colors: bg-light-fg-dark
     styles:
