@@ -164,7 +164,7 @@ sections:
       type: ImageBlock
       styles:
         self:
-          borderRadius: xx-large
+          borderRadius: none
           borderWidth: 8
     colors: bg-light-fg-dark
     styles:
