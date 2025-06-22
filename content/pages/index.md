@@ -136,9 +136,14 @@ sections:
     subtitle: >-
       At Nine Dental Centre, we prioritize your smile with advanced care and a
       gentle touch. Your comfort and dental health are our top concern.
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      From routine checkups to advanced treatments, we ensure every visit is
+      smooth and stress-free. Our expert team is here to care for your smile
+      with precision and compassion.
+
+
+
+
     actions:
       - label: Get started
         url: /
