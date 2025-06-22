@@ -248,8 +248,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          “Professional doctors, latest equipment, and no unnecessary delays.
+          Exactly what I was looking for.”
         tagline: Review 3
         subtitle: 'Maria Walters, Company'
         text: >-
