@@ -48,6 +48,8 @@ styles:
     flexDirection: col
 type: PostLayout
 isDraft: false
+seo:
+  type: Seo
 ---
 Dr. Lucky Yadav
 Founder & Clinical Head, Nine Dental Centre, Delhi
