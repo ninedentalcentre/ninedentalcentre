@@ -316,10 +316,13 @@ sections:
           has been really good.”
         tagline: Review 5
         subtitle: Sneha Patil
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          The doctor explained the entire process clearly and made me feel
+          comfortable. Looking forward to seeing the results over the coming
+          months.
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
