@@ -220,10 +220,12 @@ sections:
           smiling during the treatment!”
         tagline: Review 2
         subtitle: Anil Mehta
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          They know how to handle kids with care. Thank you for being so patient
+          and gentle with her.
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
