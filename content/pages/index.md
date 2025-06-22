@@ -187,8 +187,8 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “I was very nervous before my root canal, but the doctors made me feel
+          so comfortable. The whole process was smooth and almost painless!”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
