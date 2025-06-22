@@ -165,7 +165,7 @@ sections:
       styles:
         self:
           borderRadius: none
-          borderWidth: 8
+          borderWidth: 0
     colors: bg-light-fg-dark
     styles:
       self:
