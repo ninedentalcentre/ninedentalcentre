@@ -31,7 +31,7 @@ bottomSections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-    subtitle: cvSDcf
+    subtitle: ''
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
