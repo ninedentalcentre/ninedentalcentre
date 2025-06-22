@@ -130,7 +130,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Business Consulting
+      text: Committed To Dental Excellence
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
