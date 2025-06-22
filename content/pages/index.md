@@ -191,11 +191,9 @@ sections:
           so comfortable. The whole process was smooth and almost painless!”
         tagline: Review 1
         subtitle: Ritu Sharma
-        text: >+
-
+        text: >
           The staff is very polite, and the clinic is super clean. I would
-          definitely recommend Ninde Dental Centre to my family and friends.
-
+          definitely recommend Nine Dental Centre to my family and friends.
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
