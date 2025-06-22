@@ -189,7 +189,7 @@ sections:
       - title: >-
           “I was very nervous before my root canal, but the doctors made me feel
           so comfortable. The whole process was smooth and almost painless!”
-        tagline: Testimonial 1
+        tagline: Review 1
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
