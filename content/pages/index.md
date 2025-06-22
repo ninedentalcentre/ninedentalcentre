@@ -159,7 +159,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
+      url: /images/9.jpg
       altText: Dope design preview
       type: ImageBlock
     colors: bg-light-fg-dark
