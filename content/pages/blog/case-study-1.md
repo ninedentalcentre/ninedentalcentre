@@ -45,7 +45,7 @@ styles:
     borderStyle: none
     borderWidth: 0
     borderRadius: none
-    flexDirection: col-reverse
+    flexDirection: col
 type: PostLayout
 isDraft: false
 ---
