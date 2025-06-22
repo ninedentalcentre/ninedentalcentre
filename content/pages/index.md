@@ -280,8 +280,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          “The clinic feels more like a wellness centre than a hospital. Very
+          clean and peaceful environment.”
         tagline: Review 4
         subtitle: 'Maria Walters, Company'
         text: >-
