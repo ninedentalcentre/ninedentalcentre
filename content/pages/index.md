@@ -165,6 +165,7 @@ sections:
       styles:
         self:
           borderRadius: xx-large
+          borderWidth: 8
     colors: bg-light-fg-dark
     styles:
       self:
