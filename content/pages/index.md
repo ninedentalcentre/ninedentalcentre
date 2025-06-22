@@ -283,7 +283,7 @@ sections:
           “The clinic feels more like a wellness centre than a hospital. Very
           clean and peaceful environment.”
         tagline: Review 4
-        subtitle: 'Maria Walters, Company'
+        subtitle: Rahul Verma
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
