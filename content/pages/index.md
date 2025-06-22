@@ -159,7 +159,7 @@ sections:
         style: primary
         type: Link
     media:
-      url: /images/ig8 (1).jpg
+      url: /images/ig1.jpg
       altText: Dope design preview
       type: ImageBlock
       styles:
