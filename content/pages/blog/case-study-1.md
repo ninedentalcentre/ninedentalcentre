@@ -88,15 +88,26 @@ styles:
 type: PostLayout
 isDraft: false
 ---
+Dr. Lucky Yadav
+Founder & Clinical Head, Nine Dental Centre, Delhi
+MDS (Orthodontics), MBA (Hospital Administration)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Nine Dental Centre: Where Innovation Meets Compassion
+As the founder and clinical head of Nine Dental Centre, Delhi, Dr. Lucky Yadav leads a dedicated team offering advanced dental care spanning orthodontics, cosmetic dentistry, pediatric care, and implantology. The clinic prides itself on integrating cutting-edge diagnostics, AI-assisted treatment planning, and a patient care.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+Academic and Clinical Training
+Dr. Yadav’s educational journey began at Sainik School Balachadi, graduating in 2011, where the disciplined environment nurtured his leadership skills.
+He completed his Bachelor of Dental Surgery (BDS) at Bharati Vidyapeeth Dental College, Sangli, in 2017. During this time, he developed a keen interest in orthodontics and facial aesthetics. He further specialized by earning a Master of Dental Surgery (MDS) in Orthodontics and Dentofacial Orthopaedics from Rajasthan University of Health Sciences, Jaipur, in 2021. 
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Healthcare Leadership: MBA in Hospital Administration
+To complement his clinical expertise, Dr. Yadav pursued an MBA in Hospital Administration and Healthcare Management from D.Y. Patil University. This equipped him with crucial skills in healthcare finance, operational management, quality assurance, and optimizing patient services—skills he applies daily at Nine Dental Centre.
 
-![](/images/img-placeholder.svg)
+Clinical Experience: Senior Residency at Lady Hardinge Medical College
+From 2021 to 2025, Dr. Yadav worked as a Senior Resident Orthodontist at Lady Hardinge Medical College and Associated Hospitals, a premier government institution in Delhi. There, he managed complex orthodontic cases including cleft and craniofacial anomalies, orthognathic surgery preparation, multidisciplinary pediatric treatments, and post-trauma rehabilitation. This tenure enhanced his clinical judgment, interdisciplinary collaboration, and patient communication skills, particularly in high-pressure settings.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+Fellowship & Clinical Research
+Dr. Yadav completed a clinical fellowship at the Dr. A.P.J. Abdul Kalam Education, Research and Incubation Centre. His fellowship involved advanced orthodontic treatment protocols, clinical documentation, research activities, and community outreach programs providing dental care to underserved populations.
+
+Research and Academic Contributions
+An active researcher, Dr. Yadav has published more than 20 articles with various international journals. . He also contributes as a reviewer and editorial board member for several academic journals.
+
