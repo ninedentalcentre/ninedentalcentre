@@ -218,7 +218,7 @@ sections:
       - title: >-
           "Design is a plan for arranging elements in such a way as best to
           accomplish a particular purpose."
-        tagline: Testimonial 2
+        tagline: Review 2
         subtitle: 'John Doe, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
