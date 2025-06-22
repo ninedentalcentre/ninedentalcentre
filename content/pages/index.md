@@ -252,10 +252,12 @@ sections:
           Exactly what I was looking for.”
         tagline: Review 3
         subtitle: Deepika Joshi
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          I came in with tooth pain and walked out with complete relief. Highly
+          satisfied with the experience.
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
