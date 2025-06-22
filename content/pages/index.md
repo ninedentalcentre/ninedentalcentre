@@ -348,7 +348,7 @@ sections:
           “From consultation to treatment, everything was handled very smoothly
           and professionally.”
         tagline: Review 6
-        subtitle: 'Jane Doe, Company'
+        subtitle: Neeraj Bansal
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
