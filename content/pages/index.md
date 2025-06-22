@@ -162,6 +162,9 @@ sections:
       url: /images/nine.jpg
       altText: Dope design preview
       type: ImageBlock
+      styles:
+        self:
+          borderRadius: xx-large
     colors: bg-light-fg-dark
     styles:
       self:
