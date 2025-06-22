@@ -1,7 +1,7 @@
 ---
 title: 'Dr. Lucky Yadav '
 slug: case-study-1
-date: ''
+date: '2025-06-22'
 excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
   tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
