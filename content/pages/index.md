@@ -216,8 +216,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          “My daughter used to be scared of dentists, but here she was actually
+          smiling during the treatment!”
         tagline: Review 2
         subtitle: 'John Doe, Company'
         text: >-
