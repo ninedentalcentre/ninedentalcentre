@@ -345,8 +345,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
+          “From consultation to treatment, everything was handled very smoothly
+          and professionally.”
         tagline: Review 6
         subtitle: 'Jane Doe, Company'
         text: >-
