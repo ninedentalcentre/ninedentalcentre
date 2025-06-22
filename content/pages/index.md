@@ -284,10 +284,12 @@ sections:
           clean and peaceful environment.”
         tagline: Review 4
         subtitle: Rahul Verma
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Their hygiene is top-notch, and the doctors explain everything in
+          detail. Good experience overall.
+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
