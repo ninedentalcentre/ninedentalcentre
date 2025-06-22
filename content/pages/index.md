@@ -349,10 +349,12 @@ sections:
           and professionally.”
         tagline: Review 6
         subtitle: Neeraj Bansal
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          I had a wisdom tooth removal and didn’t even realize when it was done.
+          Highly recommend for stress-free dental care.
+
+
+
         image:
           url: /images/img-placeholder-dark.png
           altText: Jane Doe
