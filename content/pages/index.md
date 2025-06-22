@@ -155,10 +155,6 @@ sections:
       url: /images/hero3.svg
       altText: Dope design preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
