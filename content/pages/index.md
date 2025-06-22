@@ -376,6 +376,7 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
+        textDecoration: underline
   - title:
       text: List of features here
       color: text-primary
