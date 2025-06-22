@@ -251,7 +251,7 @@ sections:
           “Professional doctors, latest equipment, and no unnecessary delays.
           Exactly what I was looking for.”
         tagline: Review 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: Deepika Joshi
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
