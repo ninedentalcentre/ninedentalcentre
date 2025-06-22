@@ -315,7 +315,7 @@ sections:
           “I recently started my braces treatment here and the experience so far
           has been really good.”
         tagline: Review 5
-        subtitle: 'Jane Walters, Company'
+        subtitle: Sneha Patil
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
