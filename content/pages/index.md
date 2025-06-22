@@ -133,7 +133,9 @@ sections:
       text: Committed To Dental Excellence
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: >-
+      At Nine Dental Centre, we prioritize your smile with advanced care and a
+      gentle touch. Your comfort and dental health are our top concern.
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
