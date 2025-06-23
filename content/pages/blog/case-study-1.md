@@ -32,7 +32,7 @@ bottomSections:
       - type: Button
         label: Get started
         altText: ''
-        url: /
+        url: '/Book Appointment '
         showIcon: false
         icon: arrowRight
         iconPosition: right
