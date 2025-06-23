@@ -2,7 +2,9 @@
 title: 'Dr. Lucky Yadav ( BDS, MDS, MBA )      '
 slug: case-study-1
 date: '2025-06-22'
-excerpt: ''
+excerpt: >-
+  Founder & Clinical Head, Nine Dental Centre, DelhiMDS (Orthodontics), MBA
+  (Hospital Administration)
 featuredImage:
   url: /images/lucky yadav (1).jpg
   altText: Case study 1
