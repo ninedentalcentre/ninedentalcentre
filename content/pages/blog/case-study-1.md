@@ -28,6 +28,16 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
     subtitle: ''
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
