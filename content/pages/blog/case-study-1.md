@@ -28,17 +28,7 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
     subtitle: ''
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: >-
-          https://wa.me/918800743389?text=Hi%20Doctor%2C%20I%20want%20to%20book%20an%20appointment
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
 isFeatured: true
 colors: bg-light-fg-dark
 styles:
