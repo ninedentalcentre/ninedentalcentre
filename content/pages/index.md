@@ -482,6 +482,9 @@ sections:
       text: We Value Your Feedback
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: Help us improve your experience
     text: >+
       Your opinions matter to us. Please take a moment to share your thoughts
