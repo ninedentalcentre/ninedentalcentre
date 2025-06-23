@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/annu yadav photo (1).jpg
+  url: /images/annu yadav photo (2).jpg
   altText: Case study 2
   styles:
     self:
