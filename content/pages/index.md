@@ -485,6 +485,7 @@ sections:
       styles:
         self:
           fontWeight: 700
+          fontStyle: italic
     subtitle: Help us improve your experience
     text: >+
       Your opinions matter to us. Please take a moment to share your thoughts
