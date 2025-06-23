@@ -1,5 +1,5 @@
 ---
-title: 'Dr. Lucky Yadav                        ( BDS, MDS, MBA )      '
+title: 'Dr. Lucky Yadav ( BDS, MDS, MBA )      '
 slug: case-study-1
 date: '2025-06-22'
 excerpt: ''
