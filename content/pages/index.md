@@ -22,7 +22,8 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: >-
+          https://wa.me/918800743389?text=Hi%20Doctor%2C%20I%20want%20to%20book%20an%20appointment
         showIcon: false
         icon: arrowRight
         iconPosition: right
