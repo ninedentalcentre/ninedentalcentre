@@ -30,16 +30,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-      - type: Button
-        label: Get started
-        altText: ''
-        url: >-
-          https://wa.me/918800743389?text=Hi%20Doctor%2C%20I%20want%20to%20book%20an%20appointment
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
     media:
       url: /images/ig4.jpg
       altText: Unblock your team boost your time to production preview
