@@ -4,7 +4,7 @@ slug: case-study-2
 date: '2025-06-23'
 excerpt: Co founder nine dental Centre Delhi BDS and IMPLANTOLOGIST
 featuredImage:
-  url: /images/annu yadav photo (2).jpg
+  url: /images/9.jpg
   altText: Case study 2
   styles:
     self:
