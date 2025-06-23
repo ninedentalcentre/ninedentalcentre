@@ -2,11 +2,7 @@
 title: Dr. Annu Yadav
 slug: case-study-2
 date: '2025-06-23'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: Co founder nine dental centre Delhi BDS AND IMPLANTOLOGIST
 featuredImage:
   url: /images/annu yadav photo (2).jpg
   altText: Case study 2
