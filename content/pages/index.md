@@ -483,7 +483,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Help us improve your experience
-    text: >
+    text: >+
       Your opinions matter to us. Please take a moment to share your thoughts
       about your recent visit so we can continue providing the best care
       possible.
@@ -491,8 +491,6 @@ sections:
 
       Whether it’s a suggestion, compliment, or concern — we’re listening.
 
-
-      ![](/images/Screenshot%202025-06-22%20125007.png)
     media:
       fields:
         - name: name
