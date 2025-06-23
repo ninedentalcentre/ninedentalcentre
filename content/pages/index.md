@@ -483,11 +483,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Help us improve your experience
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Your opinions matter to us. Please take a moment to share your thoughts
+      about your recent visit so we can continue providing the best care
+      possible.
+
+
+      Whether it’s a suggestion, compliment, or concern — we’re listening.
+
+
+      ![](/images/Screenshot%202025-06-22%20125007.png)
     media:
       fields:
         - name: name
