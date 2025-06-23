@@ -109,7 +109,7 @@ sections:
         self:
           textAlign: center
           fontWeight: 700
-    showExcerpt: false
+    showExcerpt: true
     actions: []
   - title: Divider
     colors: bg-light-fg-dark
