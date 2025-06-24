@@ -409,7 +409,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Cosmetic Dentistry
-        tagline: Cosmetic Dentistry
+        tagline: Redesign Your Smile
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
