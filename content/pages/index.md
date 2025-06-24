@@ -385,7 +385,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Feature Item Two
-        tagline: This is the tagline
+        tagline: Smile with Confidence
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
