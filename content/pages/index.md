@@ -384,7 +384,7 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Feature Item Two
+      - title: Dental Implants
         tagline: Smile with Confidence
         subtitle: This is the item subtitle
         text: |
