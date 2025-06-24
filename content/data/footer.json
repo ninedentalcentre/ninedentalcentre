@@ -19,7 +19,7 @@
             },
             {
                 "label": "ninedentalcentre@gmail.com",
-                "url": "/pricing",
+                "url": "mailto:ninedentalcentre@gmail.com",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
