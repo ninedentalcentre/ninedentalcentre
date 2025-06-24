@@ -493,7 +493,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: 'Crowns, Bridges & Dentures'
-        tagline: This is the tagline
+        tagline: Restore with Precision
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
