@@ -438,7 +438,7 @@ sections:
       - type: FeaturedItem
         title: Root Canal
         tagline: Relief Starts Here
-        subtitle: This is the item subtitle
+        subtitle: Gentle care for lasting comfort.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
