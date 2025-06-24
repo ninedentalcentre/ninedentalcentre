@@ -408,7 +408,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Redesign Your Smile
+      - title: Cosmetic Dentistry
         tagline: Cosmetic Dentistry
         subtitle: This is the item subtitle
         text: >
