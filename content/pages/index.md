@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 'Nine Dental Centre Redefine your smile '
-      color: text-dark
+      color: text-neutral
       type: TitleBlock
       styles:
         self:
