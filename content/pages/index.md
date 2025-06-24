@@ -437,7 +437,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Root Canal
-        tagline: This is the tagline
+        tagline: Relief Starts Here
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
