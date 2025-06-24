@@ -411,9 +411,12 @@ sections:
       - title: Cosmetic Dentistry
         tagline: Redesign Your Smile
         subtitle: Beauty meets precision.
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: >+
+          *Enhance your smile with customized cosmetic treatments that bring out
+          your best look.*
+
+
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
