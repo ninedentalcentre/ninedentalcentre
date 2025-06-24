@@ -523,15 +523,10 @@ sections:
         title: Braces & Aligners
         tagline: Align Your Smile
         subtitle: Tailored treatments for every age.
-        text: >
+        text: >+
           *Achieve a straighter smile with clear aligners or traditional
           braces—designed just for you.*
 
-
-          *
-
-
-          *
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
