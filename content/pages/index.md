@@ -410,7 +410,7 @@ sections:
         type: FeaturedItem
       - title: Cosmetic Dentistry
         tagline: Redesign Your Smile
-        subtitle: This is the item subtitle
+        subtitle: Beauty meets precision.
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
