@@ -467,8 +467,12 @@ sections:
         title: Shine Brighter
         tagline: This is the tagline
         subtitle: A whiter smile in no time.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *Get safe, effective whitening for a noticeably brighter and more
+          confident appearance.*
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
