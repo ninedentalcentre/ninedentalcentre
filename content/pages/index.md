@@ -521,7 +521,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Braces & Aligners
-        tagline: This is the tagline
+        tagline: Align Your Smile
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
