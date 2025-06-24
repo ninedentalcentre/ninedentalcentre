@@ -137,12 +137,6 @@ sections:
 
 
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - type: Button
         label: Get started
         altText: ''
