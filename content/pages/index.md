@@ -495,8 +495,12 @@ sections:
         title: 'Crowns, Bridges & Dentures'
         tagline: Restore with Precision
         subtitle: 'Advanced solutions, natural results.'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *Rebuild your smile with high-quality dental restorations crafted
+          using cutting-edge technology.*
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
