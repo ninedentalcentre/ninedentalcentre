@@ -465,7 +465,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: 'Shine Brighter '
-        tagline: This is the tagline
+        tagline: 'Shine Brighter '
         subtitle: A whiter smile in no time.
         text: >+
           *Get safe, effective whitening for a noticeably brighter and more
