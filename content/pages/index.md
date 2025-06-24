@@ -494,7 +494,7 @@ sections:
       - type: FeaturedItem
         title: 'Crowns, Bridges & Dentures'
         tagline: Restore with Precision
-        subtitle: This is the item subtitle
+        subtitle: 'Advanced solutions, natural results.'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
