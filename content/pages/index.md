@@ -464,7 +464,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Shine Brighter
+        title: 'Shine Brighter '
         tagline: This is the tagline
         subtitle: A whiter smile in no time.
         text: >+
