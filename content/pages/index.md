@@ -387,14 +387,9 @@ sections:
       - title: Dental Implants
         tagline: Smile with Confidence
         subtitle: Strong. Natural. Reliable.
-        text: >+
-          ***Replace missing teeth with durable, natural-looking implants that
-          restore full function and appearance.***
-
-
-
-
-
+        text: >
+          *Replace missing teeth with durable, natural-looking implants that
+          restore full function and appearance.*
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
