@@ -439,8 +439,12 @@ sections:
         title: Root Canal
         tagline: Relief Starts Here
         subtitle: Gentle care for lasting comfort.
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >+
+          *Treat infected teeth painlessly and preserve your natural smile with
+          expert root canal procedures.*
+
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
