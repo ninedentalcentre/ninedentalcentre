@@ -100,7 +100,7 @@ sections:
           - pr-16
         justifyContent: center
     type: FeaturedPostsSection
-    hoverEffect: move-up
+    hoverEffect: shadow-plus-move-up
     title:
       type: TitleBlock
       text: 'KNOW YOUR DOCTORS '
