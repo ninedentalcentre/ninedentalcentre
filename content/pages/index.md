@@ -386,7 +386,7 @@ sections:
     items:
       - title: Dental Implants
         tagline: Smile with Confidence
-        subtitle: This is the item subtitle
+        subtitle: Strong. Natural. Reliable.
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
