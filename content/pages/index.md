@@ -466,7 +466,7 @@ sections:
       - type: FeaturedItem
         title: Shine Brighter
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: A whiter smile in no time.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
