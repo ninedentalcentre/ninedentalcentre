@@ -11,7 +11,7 @@
             {
                 "label": "+91 8800743389",
                 "altText": "+91 8800743389",
-                "url": "/",
+                "url": "tel:+918800743389",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
