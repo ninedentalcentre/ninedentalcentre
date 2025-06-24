@@ -522,7 +522,7 @@ sections:
       - type: FeaturedItem
         title: Braces & Aligners
         tagline: Align Your Smile
-        subtitle: This is the item subtitle
+        subtitle: Tailored treatments for every age.
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
