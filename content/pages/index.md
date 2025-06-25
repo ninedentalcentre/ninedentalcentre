@@ -391,7 +391,7 @@ sections:
           *Replace missing teeth with durable, natural-looking implants that
           restore full function and appearance.*
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/dental-implant-dental-service-1024x768.jpg
           altText: Placeholder image
           styles:
             self:
