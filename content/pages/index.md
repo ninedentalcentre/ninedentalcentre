@@ -529,7 +529,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/braces-aligner-2.jpg
           altText: Placeholder text
           styles:
             self:
