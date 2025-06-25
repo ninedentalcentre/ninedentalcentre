@@ -65,7 +65,7 @@ sections:
       - url: /images/ig1 (1).jpg
         altText: Sanity logo
         type: ImageBlock
-      - url: /images/ig2 (1).jpg
+      - url: /images/AdobeStock_408279728-scaled.jpeg
         altText: Rangle logo
         type: ImageBlock
       - type: ImageBlock
