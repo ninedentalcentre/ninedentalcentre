@@ -614,7 +614,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Expert Surgical Dentistry
         tagline: '"Precision. Comfort. Care — Every Step of the Surgery."'
         subtitle: This is the item subtitle
         text: |
