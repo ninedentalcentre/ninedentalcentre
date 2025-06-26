@@ -588,7 +588,7 @@ sections:
       - type: FeaturedItem
         title: Pediatric Dentistry
         tagline: '"Every Smile Starts Small – We Make It Shine!"'
-        subtitle: This is the item subtitle
+        subtitle: Gentle Dental Care for Your Little Ones
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
