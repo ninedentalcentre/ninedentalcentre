@@ -616,7 +616,7 @@ sections:
       - type: FeaturedItem
         title: Expert Surgical Dentistry
         tagline: '"Precision. Comfort. Care — Every Step of the Surgery."'
-        subtitle: This is the item subtitle
+        subtitle: Safe & Painless Oral Surgical Procedures
         text: |
           Learn from the tutorial and build your first awesome Netlify site.
         image:
