@@ -573,7 +573,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/child dentistry.avif
+          url: /images/smile_design_with_text_logo.png
           altText: Placeholder image
           styles:
             self:
