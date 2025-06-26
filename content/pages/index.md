@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 'NINE DENTAL CENTRE Redefine your smile '
+      text: NINE DENTAL CENTRE          "Redefine your smile "
       color: text-dark
       type: TitleBlock
       styles:
