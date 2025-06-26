@@ -148,7 +148,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/ig1.jpg
+      url: /images/smile.png
       altText: Dope design preview
       type: ImageBlock
       styles:
