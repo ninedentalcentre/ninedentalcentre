@@ -617,8 +617,14 @@ sections:
         title: Expert Surgical Dentistry
         tagline: '"Precision. Comfort. Care — Every Step of the Surgery."'
         subtitle: Safe & Painless Oral Surgical Procedures
-        text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+        text: >+
+
+          Our clinic offers expert surgical dentistry services including wisdom
+          tooth extraction, impacted teeth removal, biopsies, and other minor
+          oral surgeries. With advanced technology, experienced hands, and
+          strict sterilization, we ensure your procedure is performed with
+          utmost precision and minimal discomfort.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
