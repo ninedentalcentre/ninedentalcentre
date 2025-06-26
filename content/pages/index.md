@@ -123,7 +123,7 @@ sections:
     type: DividerSection
   - title:
       text: Committed To Dental Excellence
-      color: text-light
+      color: text-primary
       type: TitleBlock
     subtitle: >-
       At Nine Dental Centre, we prioritize your smile with advanced care and a
