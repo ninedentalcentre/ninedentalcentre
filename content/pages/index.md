@@ -586,7 +586,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Pediatric Dentistry at Nine Dental Centre
+        title: Pediatric Dentistry
         tagline: '"Every Smile Starts Small – We Make It Shine!"'
         subtitle: This is the item subtitle
         text: |
