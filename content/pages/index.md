@@ -31,7 +31,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/website.png
+      url: /images/Visit-dentist.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
