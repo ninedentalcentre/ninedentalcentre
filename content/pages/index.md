@@ -375,29 +375,6 @@ sections:
         textAlign: center
         fontWeight: 700
         textDecoration: underline
-  - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-    subtitle: Featured items section subtitle
-    items: []
-    actions: []
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
-        justifyContent: center
-      subtitle:
-        textAlign: center
   - title:
       text: List of features here
       color: text-primary
