@@ -573,7 +573,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/child dentistry.avif
           altText: Placeholder image
           styles:
             self:
