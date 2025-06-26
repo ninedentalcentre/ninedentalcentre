@@ -31,7 +31,7 @@ sections:
         style: primary
         elementId: ''
     media:
-      url: /images/ig4.jpg
+      url: '/images/ChatGPT Image Jun 26, 2025, 12_09_47 PM.png'
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
