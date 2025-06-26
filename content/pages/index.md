@@ -562,7 +562,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: ''
         tagline: '"Every Smile Starts Small – We Make It Shine!"'
         subtitle: This is the item subtitle
         text: |
