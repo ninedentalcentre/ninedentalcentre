@@ -559,13 +559,6 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: FeaturedItemsSection
-    title:
-      type: TitleBlock
-      text: List of features here
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
