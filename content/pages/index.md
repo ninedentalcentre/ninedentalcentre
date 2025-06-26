@@ -563,7 +563,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: '"Every Smile Starts Small – We Make It Shine!"'
+        tagline: '"Strong Teeth, Healthy Smile – Every Day!"'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
