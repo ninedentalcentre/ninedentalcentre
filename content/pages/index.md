@@ -562,7 +562,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: ''
+        title: General Dentistry & Tooth Fillings
         tagline: '"Strong Teeth, Healthy Smile – Every Day!"'
         subtitle: This is the item subtitle
         text: |
