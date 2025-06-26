@@ -564,7 +564,7 @@ sections:
       - type: FeaturedItem
         title: General Dentistry & Tooth Fillings
         tagline: '"Strong Teeth, Healthy Smile – Every Day!"'
-        subtitle: This is the item subtitle
+        subtitle: Routine Dental Care You Can Trust
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
