@@ -589,8 +589,12 @@ sections:
         title: Pediatric Dentistry
         tagline: '"Every Smile Starts Small – We Make It Shine!"'
         subtitle: Gentle Dental Care for Your Little Ones
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: >+
+
+          We offer gentle, child-friendly dental care for kids of all ages. From
+          milk tooth treatments to cavity prevention and habit correction, our
+          focus is on making every child’s visit stress-free and smile-filled.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
