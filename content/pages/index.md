@@ -559,7 +559,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - type: FeaturedItemsSection
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: General Dentistry & Tooth Fillings
