@@ -6,7 +6,7 @@ excerpt: >-
   Founder & Clinical Head, Nine Dental Centre, DelhiMDS (Orthodontics), MBA
   (Hospital Administration) 
 featuredImage:
-  url: /images/lucky yadav (1) (1).jpg
+  url: /images/9.jpg
   altText: Case study 1
   styles:
     self:
