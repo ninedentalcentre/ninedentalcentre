@@ -1,5 +1,5 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: 'Braces vs Aligners: Which Is Right for You?'
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
