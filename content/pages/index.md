@@ -619,11 +619,8 @@ sections:
         subtitle: Safe & Painless Oral Surgical Procedures
         text: >+
 
-          Our clinic offers expert surgical dentistry services including wisdom
-          tooth extraction, impacted teeth removal, biopsies, and other minor
-          oral surgeries. With advanced technology, experienced hands, and
-          strict sterilization, we ensure your procedure is performed with
-          utmost precision and minimal discomfort.
+          We perform wisdom tooth extractions and minor oral surgeries with
+          expert care, advanced equipment, and a focus on patient comfort.
 
         image:
           type: ImageBlock
