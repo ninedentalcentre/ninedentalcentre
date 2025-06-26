@@ -587,7 +587,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Pediatric Dentistry at Nine Dental Centre
-        tagline: This is the tagline
+        tagline: '"Every Smile Starts Small – We Make It Shine!"'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify site.
