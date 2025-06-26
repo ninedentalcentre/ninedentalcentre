@@ -628,7 +628,7 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: /images/WisdomTeeth-Removal.jpg
           altText: Placeholder image
           styles:
             self:
