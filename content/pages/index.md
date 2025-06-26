@@ -387,7 +387,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Pediatric dentistry
-        tagline: Pediatric dentistry
+        tagline: your child deserves the best
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify site.
