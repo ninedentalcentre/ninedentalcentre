@@ -565,8 +565,12 @@ sections:
         title: General Dentistry & Tooth Fillings
         tagline: '"Strong Teeth, Healthy Smile – Every Day!"'
         subtitle: Routine Dental Care You Can Trust
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: >+
+
+          We offer complete general dentistry services—from routine check-ups
+          and cleanings to precision tooth fillings—ensuring your smile stays
+          healthy, vibrant, and confident.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
