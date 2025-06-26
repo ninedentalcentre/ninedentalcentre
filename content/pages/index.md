@@ -382,7 +382,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: >-
+      Explore a Full Range of Treatments — From Pediatric Care to Braces &
+      Aligners to Advanced Surgical Solutions, All Under One Roof
     items:
       - title: Dental Implants
         tagline: Smile with Confidence
