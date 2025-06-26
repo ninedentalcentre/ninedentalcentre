@@ -12,7 +12,7 @@ sections:
           fontWeight: 500
     subtitle: Quality dental care you can trust
     text: |
-      A Ninde Dental Centre appointment is care you control.
+      A Nine Dental Centre appointment is care you control.
 
       Every consultation is personalized with advanced tools and expert insight.
 
