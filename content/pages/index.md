@@ -376,7 +376,7 @@ sections:
         fontWeight: 700
         textDecoration: underline
   - title:
-      text: List of features here
+      text: ''
       color: text-primary
       styles:
         self:
