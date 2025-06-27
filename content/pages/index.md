@@ -206,7 +206,7 @@ sections:
           The staff is very polite, and the clinic is super clean. I would
           definitely recommend Nine Dental Centre to my family and friends.
         image:
-          url: /images/didi.jpg
+          url: /images/review 1.jpg
           altText: Maria Walters
           styles:
             self:
@@ -238,7 +238,7 @@ sections:
 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/jija ji.jpg
           altText: John Doe
           styles:
             self:
@@ -302,7 +302,7 @@ sections:
 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/me.jpg
           altText: Maria Walters
           styles:
             self:
