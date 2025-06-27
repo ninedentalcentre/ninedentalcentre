@@ -50,24 +50,12 @@ sections:
         fontStyle: italic
   - subtitle: Our Smiles Gallery
     images:
-      - url: /images/ig7 (1).jpg
+      - url: /images/ortho 1 (1).png
         altText: Wellster logo
         type: ImageBlock
       - altText: Vise logo
         type: ImageBlock
-        url: /images/ig6 (1).jpg
-      - url: /images/ig5 (1) (1).jpg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/ig3 (1).jpg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/ig1 (1).jpg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/ig7 (1).jpg
-        altText: Rangle logo
-        type: ImageBlock
+        url: /images/ortho 3 (1).jpg
       - type: ImageBlock
         url: /images/ig8 (1).jpg
         altText: Image alt text placeholder
@@ -75,6 +63,39 @@ sections:
         styles:
           self:
             borderRadius: medium
+      - url: /images/ig5 (1) (1).jpg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/ig3 (1).jpg
+        altText: Contentful logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/8a0007d5c706145fe79e2a8eb0b097bc (1).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/ig1 (1).jpg
+        altText: Sanity logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/dentures1 (1).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - type: ImageBlock
+        url: /images/6-teeth-edge-bonding (1).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+      - url: /images/ig7 (1).jpg
+        altText: Rangle logo
+        type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
@@ -82,6 +103,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
