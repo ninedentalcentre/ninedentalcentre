@@ -756,7 +756,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/braces-aligner-2.jpg
+      url: /images/teeth-whitening (2).jpg
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
