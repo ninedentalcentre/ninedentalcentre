@@ -48,7 +48,7 @@
             "altText": "Social Media",
             "links": [
                 {
-                    "label": "Google ProfileGoogle Profile",
+                    "label": "Google Profile",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
