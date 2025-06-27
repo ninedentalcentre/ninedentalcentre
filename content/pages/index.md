@@ -24,7 +24,7 @@ sections:
         label: 'Book Appointment '
         altText: ''
         url: >-
-          https://wa.me/918800743389?text=Hi%20Doctor%2C%20I%20want%20to%20book%20an%20appointment
+          https://wa.me/918800743389?text=Hi%20Doctor%2C%20I%20visited%20your%20website%20and%20would%20like%20to%20know%20more%20about%20your%20dental%20treatments
         showIcon: true
         icon: arrowRight
         iconPosition: right
@@ -141,7 +141,7 @@ sections:
         label: 'Book Appointment '
         altText: ''
         url: >-
-          https://wa.me/918800743389?text=Hi%20Doctor%2C%20I%20want%20to%20book%20an%20appointment
+          https://wa.me/918800743389?text=Hi%20Doctor%2C%20I%20visited%20your%20website%20and%20would%20like%20to%20know%20more%20about%20your%20dental%20treatments
         showIcon: false
         icon: arrowRight
         iconPosition: right
