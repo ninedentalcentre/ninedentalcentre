@@ -53,7 +53,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Google Profile"
                 },
                 {
                     "label": "Dropdown item",
