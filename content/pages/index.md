@@ -2,41 +2,6 @@
 title: Home
 slug: /
 sections:
-  - subtitle: Our Smiles Gallery
-    images:
-      - url: /images/ig7 (1).jpg
-        altText: Wellster logo
-        type: ImageBlock
-      - altText: Vise logo
-        type: ImageBlock
-        url: /images/ig6 (1).jpg
-      - url: /images/ig5 (1) (1).jpg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/ig3 (1).jpg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/ig1 (1).jpg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/ig7 (1).jpg
-        altText: Rangle logo
-        type: ImageBlock
-      - type: ImageBlock
-        url: /images/ig8 (1).jpg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - type: GenericSection
     title:
       text: NINE DENTAL CENTRE          "Redefine your smile "
@@ -83,6 +48,41 @@ sections:
           - pr-16
       subtitle:
         fontStyle: italic
+  - subtitle: Our Smiles Gallery
+    images:
+      - url: /images/ig7 (1).jpg
+        altText: Wellster logo
+        type: ImageBlock
+      - altText: Vise logo
+        type: ImageBlock
+        url: /images/ig6 (1).jpg
+      - url: /images/ig5 (1) (1).jpg
+        altText: Telus logo
+        type: ImageBlock
+      - url: /images/ig3 (1).jpg
+        altText: Contentful logo
+        type: ImageBlock
+      - url: /images/ig1 (1).jpg
+        altText: Sanity logo
+        type: ImageBlock
+      - url: /images/ig7 (1).jpg
+        altText: Rangle logo
+        type: ImageBlock
+      - type: ImageBlock
+        url: /images/ig8 (1).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    motion: move-to-left
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
