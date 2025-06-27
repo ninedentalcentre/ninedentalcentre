@@ -62,7 +62,7 @@
         },
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto:ninedentalcentre@gmail.com",
             "icon": "mail",
             "type": "Social"
         }
