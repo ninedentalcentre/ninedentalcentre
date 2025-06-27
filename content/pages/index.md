@@ -50,7 +50,7 @@ sections:
         fontStyle: italic
   - subtitle: Our Smiles Gallery
     images:
-      - url: /images/ig7 (1).jpg
+      - url: /images/ortho 1 (1).png
         altText: Wellster logo
         type: ImageBlock
       - altText: Vise logo
