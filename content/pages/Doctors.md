@@ -1,6 +1,6 @@
 ---
 title: Doctors
-slug: careers
+slug: Doctors
 sections:
   - type: FeaturedPostsSection
     title:
