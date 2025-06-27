@@ -57,15 +57,6 @@
                     "altText": "Google Profile"
                 },
                 {
-                    "label": "LinkedIn",
-                    "url": "https://www.linkedin.com/in/dr-lucky-yadav-8b237b260/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "type": "Link",
-                    "altText": "LinkedIn"
-                },
-                {
                     "label": "Instagram ",
                     "url": "https://www.instagram.com/bracesandfitlife/",
                     "icon": "arrowRight",
