@@ -4,7 +4,7 @@ slug: case-study-1
 date: '2025-06-22'
 excerpt: >-
   Founder & Clinical Head, Nine Dental Centre, Delhi MDS (Orthodontics), MBA
-  (Hospital Administration). 
+  (Hospital Administration). KNOW MORE...
 featuredImage:
   url: /images/WhatsApp Image 2025-06-26 at 1.42.56 PM.jpg
   altText: Case study 1
