@@ -37,7 +37,7 @@
         {
             "label": "Doctors",
             "altText": "Doctors",
-            "url": "/careers",
+            "url": "/Doctors",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
