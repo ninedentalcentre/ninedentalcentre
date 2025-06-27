@@ -23,7 +23,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "Our Services "
         },
         {
             "label": "Blog",
@@ -35,9 +36,9 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
+            "label": "Doctors",
+            "altText": "Doctors",
+            "url": "/Doctors",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
