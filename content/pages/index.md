@@ -83,7 +83,6 @@ sections:
       subtitle:
         textAlign: center
         fontWeight: 700
-        fontStyle: italic
         textDecoration: underline
     type: ImageGallerySection
   - posts:
