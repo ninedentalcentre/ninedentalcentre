@@ -79,18 +79,18 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - url: /images/ig7 (1).jpg
-        altText: Rangle logo
-        type: ImageBlock
       - type: ImageBlock
-        url: /images/ig8 (1).jpg
+        url: /images/6-teeth-edge-bonding (1).jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
+      - url: /images/ig7 (1).jpg
+        altText: Rangle logo
+        type: ImageBlock
       - type: ImageBlock
-        url: /images/6-teeth-edge-bonding (1).jpg
+        url: /images/ig8 (1).jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
