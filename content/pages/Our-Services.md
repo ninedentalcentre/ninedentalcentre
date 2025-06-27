@@ -1,6 +1,6 @@
 ---
 title: Our Services
-slug: pricing
+slug: Our Services
 sections:
   - type: FeaturedItemsSection
     title:
