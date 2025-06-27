@@ -62,6 +62,13 @@ sections:
       - url: /images/ig3 (1).jpg
         altText: Contentful logo
         type: ImageBlock
+      - type: ImageBlock
+        url: /images/8a0007d5c706145fe79e2a8eb0b097bc (1).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/ig1 (1).jpg
         altText: Sanity logo
         type: ImageBlock
@@ -70,13 +77,6 @@ sections:
         type: ImageBlock
       - type: ImageBlock
         url: /images/ig8 (1).jpg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
-      - type: ImageBlock
-        url: /images/8a0007d5c706145fe79e2a8eb0b097bc (1).jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
