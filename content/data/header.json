@@ -71,7 +71,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "Instagram "
                 }
             ],
             "labelStyle": "secondary",
