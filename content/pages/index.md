@@ -238,7 +238,7 @@ sections:
 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/jija ji.jpg
           altText: John Doe
           styles:
             self:
