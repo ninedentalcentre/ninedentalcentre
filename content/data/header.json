@@ -73,6 +73,17 @@
                     "style": "secondary",
                     "type": "Link",
                     "altText": "Instagram "
+                },
+                {
+                    "type": "Link",
+                    "label": "LinkedIn",
+                    "altText": "LinkedIn",
+                    "url": "https://www.linkedin.com/in/dr-lucky-yadav-8b237b260/",
+                    "showIcon": true,
+                    "icon": "linkedin",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary",
