@@ -65,6 +65,13 @@
             "url": "mailto:ninedentalcentre@gmail.com",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
