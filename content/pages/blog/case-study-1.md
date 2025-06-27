@@ -6,7 +6,7 @@ excerpt: >-
   Founder & Clinical Head, Nine Dental Centre, DelhiMDS (Orthodontics), MBA
   (Hospital Administration) 
 featuredImage:
-  url: /images/WhatsApp Image 2025-06-26 at 1.42.56 PM.jpeg
+  url: /images/WhatsApp Image 2025-06-26 at 1.42.56 PM (1).jpeg
   altText: Case study 1
   styles:
     self:
