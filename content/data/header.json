@@ -62,7 +62,8 @@
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "type": "Link",
+                    "altText": "LinkedIn"
                 },
                 {
                     "label": "Dropdown item",
