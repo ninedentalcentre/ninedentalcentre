@@ -1,5 +1,5 @@
 ---
-title: Careers
+title: Doctors
 slug: careers
 sections:
   - type: FeaturedPostsSection
