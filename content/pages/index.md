@@ -302,7 +302,7 @@ sections:
 
 
         image:
-          url: /images/person-placeholder-light.png
+          url: /images/me.jpg
           altText: Maria Walters
           styles:
             self:
