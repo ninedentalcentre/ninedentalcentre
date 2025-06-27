@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Our Services
 slug: pricing
 sections:
   - type: FeaturedItemsSection
