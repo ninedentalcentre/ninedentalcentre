@@ -84,6 +84,7 @@ sections:
         textAlign: center
         fontWeight: 700
         fontStyle: italic
+        textDecoration: underline
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
