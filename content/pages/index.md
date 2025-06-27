@@ -76,7 +76,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/8a0007d5c706145fe79e2a8eb0b097bc (1).jpg
         altText: Image alt text placeholder
         elementId: ''
         styles:
