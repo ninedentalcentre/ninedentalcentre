@@ -56,6 +56,13 @@ sections:
       - altText: Vise logo
         type: ImageBlock
         url: /images/ortho 3 (1).jpg
+      - type: ImageBlock
+        url: /images/ig8 (1).jpg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
       - url: /images/ig5 (1) (1).jpg
         altText: Telus logo
         type: ImageBlock
@@ -89,13 +96,6 @@ sections:
       - url: /images/ig7 (1).jpg
         altText: Rangle logo
         type: ImageBlock
-      - type: ImageBlock
-        url: /images/ig8 (1).jpg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     motion: move-to-left
     colors: bg-light-fg-dark
     styles:
