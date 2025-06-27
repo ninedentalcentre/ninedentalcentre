@@ -19,7 +19,7 @@
     "primaryLinks": [
         {
             "label": "Our Services ",
-            "url": "ninedentalcentre.com/Our%20Services/",
+            "url": "/Our Services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
