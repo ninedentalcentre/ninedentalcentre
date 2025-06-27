@@ -19,7 +19,7 @@
     "primaryLinks": [
         {
             "label": "Our Services ",
-            "url": "/pricing",
+            "url": "/Our Services",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
