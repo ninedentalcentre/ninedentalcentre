@@ -42,13 +42,13 @@
                 "type": "Link"
             },
             {
-                "label": "Monday –  Saturday                                   10AM-2PM 5PM-9PM",
+                "label": "Monday –  Saturday        ( SUNDAY ON APPOINTMENT )                            10AM-2PM 5PM-9PM",
                 "url": "https://maps.app.goo.gl/RP8PD61pEyMDeLvw7",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link",
-                "altText": "Monday –  Saturday                                   10AM-2PM 5PM-9PM"
+                "altText": "Monday –  Saturday        ( SUNDAY ON APPOINTMENT )                            10AM-2PM 5PM-9PM"
             }
         ],
         "type": "FooterLinksGroup"
