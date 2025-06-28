@@ -8,7 +8,7 @@ topSections:
       text: 'Braces vs Aligners: Which Is Right for You?'
       color: text-dark
       type: TitleBlock
-    subtitle: This is the subtitle
+    subtitle: Clear Aligners vs Traditional Braces – Delhi’s Expert Opinion
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
     showThumbnail: true
