@@ -30,23 +30,129 @@ styles:
     flexDirection: col
 author: content/data/person2.json
 ---
+## ✅ What Is General Dentistry?
 
-A **Design System** is a comprehensive set of standards, principles, and tools that guide the design and development of a product or service. It provides a unified framework to ensure consistency, efficiency, and scalability across a product's user interface (UI) and user experience (UX).
+**General dentistry** focuses on the prevention, diagnosis, and treatment of everyday dental issues. It includes all the routine care and basic treatments needed to maintain good oral health.
 
-### Key Components of a Design System:
+Whether it’s your first visit or a regular 6-month check-up, we’ve got your smile covered.
 
-1. **Style Guide**: Defines the visual elements like color palettes, typography, icons, and spacing guidelines.
-2. **Component Library**: A collection of reusable UI components such as buttons, forms, modals, etc., that adhere to the style guide.
-3. **Design Principles**: Core philosophies and guidelines that inform the design choices, ensuring a cohesive look and feel.
-4. **Patterns**: Reusable solutions for common design problems, such as navigation, search, or error handling.
-5. **Documentation**: Comprehensive guidance on how to use and implement the components, principles, and patterns.
-6. **Branding Guidelines**: Ensures that the product's design aligns with the overall brand identity.
 
-### Benefits of a Design System:
 
-- **Consistency**: Ensures a cohesive user experience across different platforms and products.
-- **Efficiency**: Speeds up the design and development process by providing ready-to-use components and guidelines.
-- **Scalability**: Makes it easier to scale the product by maintaining design consistency as the team grows or the product evolves.
-- **Collaboration**: Enhances communication between designers, developers, and other stakeholders by providing a common language and resources.
+## 🧰 Services We Offer Under General Dentistry
 
-Would you like to dive deeper into any specific aspect of a Design System?
+At Nine Dental Centre, our general dental services include:
+
+*   **Dental check-ups & consultations**
+
+*   **Scaling & polishing** (cleaning)
+
+*   **Tooth-colored fillings**
+
+*   **Cavity detection and prevention**
+
+*   **Gum care & treatment for bleeding gums**
+
+*   **Fluoride applications**
+
+*   **Dental X-rays for early diagnosis**
+
+*   **Preventive care for kids and adults**
+
+📱 For appointments or questions, call: **8800743389**
+
+
+
+## 🪥 Why Are Regular Dental Visits Important?
+
+Skipping dental visits can allow small problems to turn into serious ones — like untreated cavities or gum disease.
+
+### Regular check-ups help:
+
+*   Remove plaque and tartar
+
+*   Prevent tooth decay and gum infections
+
+*   Catch problems early (like oral cancer or fractures)
+
+*   Maintain fresh breath and a healthy smile
+
+*   Save money on future treatments
+
+👉 We recommend a dental check-up every **6 months**. Book yours at **8800743389**.
+
+
+
+## 👨‍⚕️ Why Choose Nine Dental Centre, Mohan Garden?
+
+*   Experienced general and family dentist
+
+*   Comfortable, hygienic clinic setup
+
+*   Modern equipment and painless procedures
+
+*   Affordable pricing for all routine work
+
+*   Family-friendly care for kids, adults, and seniors
+
+*   Transparent treatment plans
+
+📞 Schedule your check-up now at **8800743389**
+
+
+
+## 💸 Cost of General Dental Treatments in Delhi
+
+We believe in **affordable dental care** for everyone. Our general dentistry services are reasonably priced:
+
+*   Check-up & consultation – FREE with treatment
+
+*   Scaling & polishing – from ₹500
+
+*   Fillings – from ₹700
+
+*   X-rays – ₹200 onwards
+
+📱 For a full cost estimate, contact: **8800743389**
+
+
+
+## ✅ Smile Optimization Section (SOS) – FAQs on General Dentistry
+
+### 1. **How often should I see the dentist?**
+
+Every 6 months is ideal, even if you don’t have pain.
+
+### 2. **Do dental cleanings hurt?**
+
+No. Cleaning is a gentle process and removes tartar buildup without damaging your teeth.
+
+### 3. **Can I get cavities even if I brush daily?**
+
+Yes. Brushing helps but doesn’t reach all areas. That’s why professional cleaning is important.
+
+### 4. **Are white fillings as strong as metal ones?**
+
+Yes. Modern tooth-colored (composite) fillings are both aesthetic and strong.
+
+### 5. **Do you treat kids and seniors too?**
+
+Yes! We provide complete **family dental care** under one roof.
+
+📞 Book for your family now at **8800743389**
+
+
+
+## 📍 Visit Nine Dental Centre – General & Family Dentist in West Delhi
+
+Looking for **a trusted dentist for routine check-ups in Delhi**? Whether it’s a cleaning, filling, or just a quick consultation, visit **Nine Dental Centre**, Mohan Garden.
+
+🕘 Open Daily: 10 AM – 9 PM
+
+📍 Location: Mohan Garden, near Nawada Metro, Delhi
+
+📱 Book Now: **8800743389**
+
+
+
+
+
