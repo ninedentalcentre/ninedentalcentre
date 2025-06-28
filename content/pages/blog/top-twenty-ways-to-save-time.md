@@ -2,10 +2,7 @@
 title: Wisdom Tooth Extraction & Oral Surgery at Nine Dental Centre
 slug: top-twenty-ways-to-save-time
 date: '2025-03-25'
-excerpt: >-
-  Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
-  aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+excerpt: "Quo facilis culpa ut illo dolor quo placeat cSafe, Painless Surgical Tooth Removal in Mohan Garden, DelhiAre you experiencing pain or swelling at the back of your mouth? It might be your wisdom tooth. At Nine Dental Centre, Mohan Garden, Delhi, we provide expert, pain-free oral surgical procedures like wisdom tooth extraction, tooth removal, and minor gum surgeries — all under one roof.\n\U0001F4DE Call or WhatsApp: 8800743389 to book your consultation"
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
