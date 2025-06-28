@@ -3,10 +3,7 @@ type: PostLayout
 title: Cosmetic Dentistry – Enhance Your Smile with Confidence
 slug: track-the-right-analytics-for-your-business
 date: '2025-02-20'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: Sit ratione eligendi et quis distinctio et mai
 featuredImage:
   url: /images/smile_design_with_text_logo.png
   altText: Thumbnail
