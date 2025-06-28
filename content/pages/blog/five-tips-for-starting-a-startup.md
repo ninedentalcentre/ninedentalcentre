@@ -1,7 +1,7 @@
 ---
 title: Dental Implants – Permanent Solution for Missing Teeth
 slug: five-tips-for-starting-a-startup
-date: '2023-03-18'
+date: ''
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
   facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
