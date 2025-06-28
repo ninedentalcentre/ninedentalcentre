@@ -2,10 +2,7 @@
 title: Dental Implants – Permanent Solution for Missing Teeth
 slug: five-tips-for-starting-a-startup
 date: '2025-03-18'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: "Sit ratione eligendi et quis distinctio et mBest Dental Implants in Mohan Garden, Delhi | Nine Dental CentreMissing teeth can affect not just your smile but also your confidence, chewing ability, and speech. At Nine Dental Centre, Mohan Garden, we offer advanced dental implants that look, feel, and function like natural teeth.\n\U0001F4DE Call or WhatsApp: 8800743389 to book your implant consultation."
 featuredImage:
   url: /images/dental-implant-dental-service-1024x768.jpg
   altText: Thumbnail
