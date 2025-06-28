@@ -3,10 +3,7 @@ type: PostLayout
 title: ✨ Teeth Whitening & Cleaning – Brighten Your Smile Today
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2025-06-18'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: Sit ratione eligendi et quis distinctio et m
 featuredImage:
   url: /images/teeth-whitening (1).jpg
   altText: Thumbnail
