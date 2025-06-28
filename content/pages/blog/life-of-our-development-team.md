@@ -1,5 +1,5 @@
 ---
-title: A Day in the Life of Our Development Team
+title: Root Canal Treatment (RCT) – Everything You Need to Know
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
