@@ -1,10 +1,13 @@
 ---
 type: PostLayout
-title: What is a Design System
+title: "\U0001F9B7 General Dentistry – Everyday Dental Care for Healthy Smiles"
 slug: what-is-a-design-system
 date: '2023-02-14'
 excerpt: >-
-  A Design System is a comprehensive set of standards, principles, and tools that guide the design and development of a product or service. It provides a unified framework to ensure consistency, efficiency, and scalability across a product's user interface (UI) and user experience (UX).
+  A Design System is a comprehensive set of standards, principles, and tools
+  that guide the design and development of a product or service. It provides a
+  unified framework to ensure consistency, efficiency, and scalability across a
+  product's user interface (UI) and user experience (UX).
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
