@@ -2,7 +2,7 @@
 type: PostLayout
 title: "\U0001F9B7 General Dentistry – Everyday Dental Care for Healthy Smiles"
 slug: what-is-a-design-system
-date: '0202-02-14'
+date: '2025-02-14'
 excerpt: >-
   A Design System is a comprehensive set of standards, principles, and tools
   that guide the design and development of a product or service. It provides a
