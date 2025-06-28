@@ -3,7 +3,12 @@ type: PostLayout
 title: Cosmetic Dentistry – Enhance Your Smile with Confidence
 slug: track-the-right-analytics-for-your-business
 date: '2025-02-20'
-excerpt: Sit ratione eligendi et quis distinctio et mai
+excerpt: >-
+  Sit ratione eligendi et quis distinctio et maSmile Makeovers in Mohan Garden,
+  Delhi | Nine Dental CentreYour smile is the first thing people notice. At Nine
+  Dental Centre, Mohan Garden, we offer cosmetic dentistry solutions to
+  transform your smile and boost your confidence — all with advanced, safe, and
+  personalized care.i
 featuredImage:
   url: /images/smile_design_with_text_logo.png
   altText: Thumbnail
