@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Track the right analytics for your business
+title: Cosmetic Dentistry – Enhance Your Smile with Confidence
 slug: track-the-right-analytics-for-your-business
 date: '2023-02-20'
 excerpt: >-
