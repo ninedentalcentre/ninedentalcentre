@@ -3,10 +3,11 @@ title: Child Dentistry – Caring for Your Child’s Smile from the Start
 slug: surround-yourself-with-right-people
 date: '2025-03-26'
 excerpt: >-
-  Starting a business is no small feat. It’s a journey filled with challenges,
-  risks, and countless decisions that can make or break your startup. One of the
-  most critical decisions you'll make isn’t about your product or market—it's
-  about the people you surround yourself with.
+  Starting a business is no small feat. It’s a joBest Pediatric Dentist in Mohan
+  Garden, Delhi | Nine Dental CentreYour child’s smile is precious — and
+  deserves expert care from the very beginning. At Nine Dental Centre, Mohan
+  Garden, Delhi, we offer specialized child dental care (pediatric dentistry) to
+  help kids develop strong, healthy teeth in a friendly, fear-free environment.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
