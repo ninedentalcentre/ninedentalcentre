@@ -23,9 +23,127 @@ styles:
     flexDirection: col
 isFeatured: false
 ---
+## 🦷 What Is Oral Surgery in Dentistry?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra nam libero justo laoreet sit. Tincidunt id aliquet risus feugiat in ante. Non diam phasellus vestibulum lorem sed. Morbi quis commodo odio aenean. Tortor aliquam nulla facilisi cras fermentum odio eu feugiat. Vel eros donec ac odio tempor orci dapibus ultrices. Facilisi morbi tempus iaculis urna id volutpat. Luctus accumsan tortor posuere ac. Sagittis orci a scelerisque purus semper eget. Ultricies mi quis hendrerit dolor magna eget est lorem ipsum. Dolor purus non enim praesent. Lorem sed risus ultricies tristique nulla aliquet enim tortor. Aliquam vestibulum morbi blandit cursus risus.
+**Oral surgery** refers to specialized dental procedures that involve surgical treatment of the mouth, teeth, gums, and jaw. One of the most common oral surgeries is **wisdom tooth extraction**, especially when the tooth is impacted or causing pain.
 
-Scelerisque fermentum dui faucibus in ornare quam viverra orci. Libero justo laoreet sit amet cursus. Gravida rutrum quisque non tellus orci. Ut sem nulla pharetra diam sit amet nisl suscipit. Lorem ipsum dolor sit amet consectetur adipiscing elit. Urna porttitor rhoncus dolor purus. Quisque non tellus orci ac auctor augue mauris augue. Consectetur adipiscing elit duis tristique sollicitudin. Vitae semper quis lectus nulla at volutpat. Elementum pulvinar etiam non quam lacus suspendisse faucibus. Porta nibh venenatis cras sed felis eget velit. Ullamcorper malesuada proin libero nunc consequat interdum. Enim sed faucibus turpis in eu mi bibendum neque egestas. Facilisi morbi tempus iaculis urna. Rhoncus est pellentesque elit ullamcorper dignissim. Aenean et tortor at risus viverra adipiscing at in. Cursus euismod quis viverra nibh cras pulvinar mattis nunc sed. Sit amet aliquam id diam. Ut tristique et egestas quis ipsum suspendisse. Congue quisque egestas diam in arcu cursus.
+Other oral surgical procedures include:
 
-Mattis enim ut tellus elementum sagittis. At volutpat diam ut venenatis tellus in metus vulputate eu. Habitant morbi tristique senectus et. Id aliquet lectus proin nibh nisl condimentum id venenatis. Nec tincidunt praesent semper feugiat nibh sed pulvinar. Lectus vestibulum mattis ullamcorper velit sed. Semper viverra nam libero justo. Purus sit amet luctus venenatis. Massa id neque aliquam vestibulum morbi blandit cursus risus at. Feugiat nibh sed pulvinar proin gravida.
+*   Surgical removal of broken or infected teeth
+
+*   Treatment of cysts or swelling in the jaw
+
+*   Minor gum surgeries
+
+*   Biopsies for suspicious lesions
+
+*   Apicoectomy (surgical root tip removal)
+
+📱 For appointments, call: **8800743389**
+
+
+
+## 😬 Do I Need My Wisdom Tooth Removed?
+
+Wisdom teeth, also called **third molars**, often erupt in the late teens or early 20s. In many cases, they grow at the wrong angle or do not have enough space, leading to pain, infection, or damage to nearby teeth.
+
+### Common symptoms include:
+
+*   Pain or pressure at the back of the mouth
+
+*   Swollen or bleeding gums
+
+*   Jaw stiffness
+
+*   Repeated infections or pus discharge
+
+*   Food getting stuck behind last tooth
+
+📞 If you have these symptoms, contact us at **8800743389** to schedule an evaluation.
+
+
+
+## 🛡️ Why Choose Nine Dental Centre for Oral Surgery?
+
+*   Performed by **trained oral surgeons**
+
+*   Digital X-rays & advanced surgical tools
+
+*   **Painless procedures with local anesthesia**
+
+*   Sterile and hygienic setup
+
+*   Post-surgery support and care
+
+*   Affordable cost with EMI options
+
+📲 Book your surgical consultation: **8800743389**
+
+
+
+## ⏱️ Is the Surgery Painful? How Long Does It Take?
+
+Not at all. The procedure is done under local anesthesia and takes around 30–45 minutes. We also offer **medications and post-surgery instructions** to ensure smooth recovery.
+
+Most patients return to normal activities in 1–2 days with proper care.
+
+📞 Still worried? Talk to us directly: **8800743389**
+
+
+
+## 💸 Cost of Wisdom Tooth Removal in Delhi
+
+The cost of wisdom tooth extraction depends on the case — whether it’s a simple removal or a surgical one.
+
+At Nine Dental Centre, we offer **affordable pricing** starting from ₹2500. Surgical extractions (impacted teeth) may cost more based on complexity.
+
+✅ Transparent charges
+
+✅ EMI options available
+
+✅ Free follow-up
+
+📱 For pricing and appointment details, call: **8800743389**
+
+
+
+## ✅ Smile Optimization Section (SOS) – FAQs on Oral Surgery
+
+### 1. **Do all wisdom teeth need to be removed?**
+
+No. Only problematic or impacted wisdom teeth that cause symptoms or crowding need removal.
+
+### 2. **Is wisdom tooth extraction risky?**
+
+Not at all. When done by an experienced oral surgeon under sterile conditions, it’s a very safe procedure.
+
+### 3. **How long is the recovery?**
+
+Most patients recover in 2–3 days. Avoid hard foods and follow care instructions for best results.
+
+### 4. **Can I get all 4 wisdom teeth removed at once?**
+
+Yes, if recommended by the dentist and if your health allows, it can be done safely.
+
+### 5. **Is the procedure available in West Delhi?**
+
+Yes! We offer expert surgical services at **Nine Dental Centre, Mohan Garden – Near Nawada & Uttam Nagar**.
+
+📞 **Call or WhatsApp 8800743389** for booking and more information.
+
+
+
+## 📍 Visit Nine Dental Centre – Mohan Garden, Delhi
+
+Looking for **wisdom tooth removal near me**, **oral surgeon in Delhi**, or **tooth extraction clinic in Mohan Garden**? Your search ends here.
+
+🕘 Open Daily: 10 AM – 9 PM
+
+📍 Mohan Garden, near Nawada Metro Station
+
+📱 Call/WhatsApp: **8800743389**
+
+
+
+
+
