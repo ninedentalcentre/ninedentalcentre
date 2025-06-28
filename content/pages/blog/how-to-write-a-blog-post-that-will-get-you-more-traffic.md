@@ -4,11 +4,10 @@ title: ✨ Teeth Whitening & Cleaning – Brighten Your Smile Today
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2025-06-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et mShine Bright at Nine Dental
-  Centre, Mohan Garden, DelhiWant a fresher, cleaner, whiter smile? At Nine
-  Dental Centre, Mohan Garden, we offer professional teeth cleaning and
-  whitening treatments that not only improve your oral health but also boost
-  your confidence.
+  Shine Bright at Nine Dental Centre, Mohan Garden, Delhi . Want a fresher,
+  cleaner, whiter smile? At Nine Dental Centre, Mohan Garden, we offer
+  professional teeth cleaning and whitening treatments that not only improve
+  your oral health but also boost your confidence.
 featuredImage:
   url: /images/teeth-whitening (1).jpg
   altText: Thumbnail
