@@ -10,7 +10,7 @@ excerpt: >-
   teeth and gums healthy for life — from basic cleanings to cavity fillings and
   more.
 featuredImage:
-  url: /images/abstract-feature3.svg
+  url: /images/8a0007d5c706145fe79e2a8eb0b097bc (1).jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
