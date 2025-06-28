@@ -3,8 +3,9 @@ title: Root Canal Treatment (RCT) – Everything You Need to Know
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corpo
+  Vel repellat dolores ut unde voluptatum ut optio voluptates est alooth pain
+  ruining your day? You might need a Root Canal Treatment (RCT) — a simple and
+  effective way to save your natural tooth and get rid of pain.
 featuredImage:
   url: /images/Root-Canal-Treatment.webp
   altText: Thumbnail
