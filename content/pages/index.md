@@ -14,7 +14,7 @@ sections:
       "Redefine your smile with                  Quality dental care you can
       trust"
     text: |
-      A Nine Dental Centre appointment is care you control.
+      A Nine Dental Centre appointment is care you deserve.
 
       Every consultation is personalized with advanced tools and expert insight.
 
