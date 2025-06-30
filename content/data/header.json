@@ -97,7 +97,7 @@
         {
             "type": "Link",
             "label": "Location",
-            "altText": "",
+            "altText": "Location",
             "url": "https://maps.app.goo.gl/zy1UgpAwi3dsHimr7",
             "showIcon": false,
             "icon": "arrowRight",
