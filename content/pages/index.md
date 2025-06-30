@@ -4,13 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: NINE DENTAL CENTRE          "Redefine your smile "
+      text: NINE DENTAL CENTRE
       color: text-dark
       type: TitleBlock
       styles:
         self:
           fontWeight: 500
-    subtitle: Quality dental care you can trust
+    subtitle: '"Redefine your smile "                   Quality dental care you can trust'
     text: |
       A Nine Dental Centre appointment is care you control.
 
