@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           fontWeight: 500
-    subtitle: Quality dental care you can trust
+    subtitle: '"Redefine your smile "                   Quality dental care you can trust'
     text: |
       A Nine Dental Centre appointment is care you control.
 
