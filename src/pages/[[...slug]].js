@@ -35,7 +35,7 @@ switch (path) {
     title = 'Our Doctors – Meet Our Experts';
     break;
   default:
-    title = seoGenerateTitle(page, site);
+    title = 'Nine Dental Centre'; // Fallback if path doesn't match above
 }
     const metaTags = seoGenerateMetaTags(page, site);
     const metaDescription = seoGenerateMetaDescription(page, site);
