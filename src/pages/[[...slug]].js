@@ -52,7 +52,7 @@ switch (path) {
                     return <meta key={metaTag.property} name={metaTag.property} content={metaTag.content} />;
                 })}
                 <meta name="viewport" content="width=device-width, initial-scale=1" />
-                {site.favicon && <link rel="icon" href={site.favicon} />}
+                <link rel="icon" href="/images/favicon.png" type="image/png" />
             </Head>
             <PageLayout page={page} site={site} />
         </>
