@@ -93,6 +93,17 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "type": "Link",
+            "label": "Location",
+            "altText": "Location",
+            "url": "https://maps.app.goo.gl/zy1UgpAwi3dsHimr7",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [

@@ -408,7 +408,8 @@ sections:
       type: TitleBlock
     subtitle: >-
       Explore a Full Range of Treatments — From Pediatric Care to Braces &
-      Aligners to Advanced Surgical Solutions, All Under One Roof
+      Aligners to Advanced Surgical Solutions, All Under One Roof ( Read blogs
+      to know more)
     items:
       - title: Dental Implants
         tagline: Smile with Confidence
