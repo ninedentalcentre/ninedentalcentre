@@ -15,8 +15,28 @@ function Page(props) {
     const PageLayout = getComponent(modelName);
     if (!PageLayout) {
         throw new Error(`no page layout matching the page model: ${modelName}`);
-    }
-    const title = seoGenerateTitle(page, site);
+    }const path = page.urlPath;
+
+let title;
+
+switch (path) {
+  case '/':
+    title = 'Nine Dental Centre – Your Smile, Our Priority';
+    break;
+  case '/services':
+  case '/pricing':
+    title = 'Our Services – Nine Dental Centre';
+    break;
+  case '/blog':
+    title = 'Blog – Dental Tips & News';
+    break;
+  case '/career':
+  case '/doctors':
+    title = 'Our Doctors – Meet Our Experts';
+    break;
+  default:
+    title = seoGenerateTitle(page, site);
+}
     const metaTags = seoGenerateMetaTags(page, site);
     const metaDescription = seoGenerateMetaDescription(page, site);
     return (
