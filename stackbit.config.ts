@@ -11,6 +11,12 @@ const gitContentSource = new GitContentSource({
         staticDir: 'public',
         uploadDir: 'images',
         publicPath: '/'
+    },
+    pageLayoutComponentPath: (document) => {
+        const layoutName = document.fields.layout?.value;
+        return layoutName
+            ? `src/components/layouts/${layoutName}/${layoutName}.tsx`
+            : 'src/components/layouts/PageLayout/PageLayout.tsx';
     }
 });
 
