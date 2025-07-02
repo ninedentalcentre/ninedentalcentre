@@ -50,8 +50,10 @@ export const config = defineStackbitConfig({
                             document: document
                         };
                 }
-            });
+            })
+            .filter(Boolean) as SiteMapEntry[];
     }
 });
 
 export default config;
+
