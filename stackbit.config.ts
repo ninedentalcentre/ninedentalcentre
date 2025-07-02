@@ -25,12 +25,6 @@ export const config = defineStackbitConfig({
         presetDirs: ['sources/local/presets']
     },
     pageLayoutKey: 'layout',
-    pageLayoutComponentPath: (document) => {
-        const layoutName = document.fields.layout?.value;
-        return layoutName
-            ? `src/layouts/${layoutName}.tsx`
-            : 'src/layouts/PageLayout.tsx';
-    },
     siteMap: ({ documents, models }): SiteMapEntry[] => {
         const pageModels = models.filter((model) => model.type === 'page').map((model) => model.name);
         return documents
