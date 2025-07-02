@@ -11,12 +11,6 @@ const gitContentSource = new GitContentSource({
         staticDir: 'public',
         uploadDir: 'images',
         publicPath: '/'
-    },
-    pageLayoutComponentPath: (document) => {
-        const layoutName = document.fields.layout?.value;
-        return layoutName
-            ? `src/components/layouts/${layoutName}/${layoutName}.tsx`
-            : 'src/components/layouts/PageLayout/PageLayout.tsx';
     }
 });
 
@@ -30,7 +24,13 @@ export const config = defineStackbitConfig({
         type: 'files',
         presetDirs: ['sources/local/presets']
     },
-pageLayoutKey: 'layout',
+    pageLayoutKey: 'layout',
+    pageLayoutComponentPath: (document) => {
+        const layoutName = document.fields.layout?.value;
+        return layoutName
+            ? `src/layouts/${layoutName}.tsx`
+            : 'src/layouts/PageLayout.tsx';
+    },
     siteMap: ({ documents, models }): SiteMapEntry[] => {
         const pageModels = models.filter((model) => model.type === 'page').map((model) => model.name);
         return documents
@@ -38,8 +38,6 @@ pageLayoutKey: 'layout',
             .map((document) => {
                 let slug = (document.fields.slug as DocumentStringLikeFieldNonLocalized)?.value;
                 if (!slug) return null;
-                /* Remove the leading slash in order to generate correct urlPath
-                regardless of whether the slug is '/', 'slug' or '/slug' */
                 slug = slug.replace(/^\/+/, '');
                 switch (document.modelName) {
                     case 'PostFeedLayout':
