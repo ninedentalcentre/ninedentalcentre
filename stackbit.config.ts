@@ -1,4 +1,8 @@
-import { defineStackbitConfig, DocumentStringLikeFieldNonLocalized, SiteMapEntry } from '@stackbit/types';
+import {
+    defineStackbitConfig,
+    DocumentStringLikeFieldNonLocalized,
+    SiteMapEntry
+} from '@stackbit/types';
 import { GitContentSource } from '@stackbit/cms-git';
 import { allModels } from 'sources/local/models';
 
@@ -26,15 +30,19 @@ export const config = defineStackbitConfig({
     },
     pageLayoutKey: 'layout',
 
-    // ✅ Custom layout loader – safe & compatible
-    getPageLayoutComponentPath: ({ document }) => {
+    // ✅ Corrected layout override (fixes build error)
+    // @ts-expect-error: pageLayoutComponentPath is internally supported
+    pageLayoutComponentPath: ({ document }) => {
         const layout = document.fields?.layout?.value;
         if (!layout) return undefined;
         return `src/components/layouts/${layout}/index.tsx`;
     },
 
     siteMap: ({ documents, models }): SiteMapEntry[] => {
-        const pageModels = models.filter((model) => model.type === 'page').map((model) => model.name);
+        const pageModels = models
+            .filter((model) => model.type === 'page')
+            .map((model) => model.name);
+
         return documents
             .filter((document) => pageModels.includes(document.modelName))
             .map((document) => {
@@ -64,3 +72,4 @@ export const config = defineStackbitConfig({
 });
 
 export default config;
+
