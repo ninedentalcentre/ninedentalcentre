@@ -14,7 +14,6 @@ const gitContentSource = new GitContentSource({
     }
 });
 
-// @ts-expect-error - Stackbit type doesn't yet include 'pageLayoutComponentPath'
 export const config = defineStackbitConfig({
     stackbitVersion: '~0.7.0',
     ssgName: 'nextjs',
@@ -26,12 +25,14 @@ export const config = defineStackbitConfig({
         presetDirs: ['sources/local/presets']
     },
     pageLayoutKey: 'layout',
-    // ✅ Required for Stackbit Editor to load layout
+
+    // @ts-expect-error - Stackbit type doesn't yet include 'pageLayoutComponentPath'
     pageLayoutComponentPath: ({ document }) => {
         const layout = document.fields.layout?.value;
         if (!layout) return undefined;
         return `src/components/layouts/${layout}/index.tsx`;
     },
+
     siteMap: ({ documents, models }): SiteMapEntry[] => {
         const pageModels = models.filter((model) => model.type === 'page').map((model) => model.name);
         return documents
@@ -63,3 +64,4 @@ export const config = defineStackbitConfig({
 });
 
 export default config;
+
