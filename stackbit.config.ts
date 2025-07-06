@@ -26,9 +26,9 @@ export const config = defineStackbitConfig({
     },
     pageLayoutKey: 'layout',
 
-    // @ts-expect-error - Stackbit type doesn't yet include 'pageLayoutComponentPath'
-    pageLayoutComponentPath: ({ document }) => {
-        const layout = document.fields.layout?.value;
+    // ✅ Custom layout loader – safe & compatible
+    getPageLayoutComponentPath: ({ document }) => {
+        const layout = document.fields?.layout?.value;
         if (!layout) return undefined;
         return `src/components/layouts/${layout}/index.tsx`;
     },
@@ -64,4 +64,3 @@ export const config = defineStackbitConfig({
 });
 
 export default config;
-
