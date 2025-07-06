@@ -14,6 +14,7 @@ const gitContentSource = new GitContentSource({
     }
 });
 
+// @ts-expect-error - Stackbit type doesn't yet include 'pageLayoutComponentPath'
 export const config = defineStackbitConfig({
     stackbitVersion: '~0.7.0',
     ssgName: 'nextjs',
