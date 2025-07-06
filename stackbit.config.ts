@@ -25,17 +25,12 @@ export const config = defineStackbitConfig({
         presetDirs: ['sources/local/presets']
     },
     pageLayoutKey: 'layout',
-    // ❌ remove or comment resolvePageLayoutComponent
-    // resolvePageLayoutComponent: ({ document }) => {
-    //     const layoutName = document.fields.layout?.value;
-    //     if (!layoutName) {
-    //         return undefined;
-    //     }
-    //     return {
-    //         srcType: 'tsx',
-    //         componentPath: `src/components/layouts/${layoutName}/index.tsx`,
-    //     };
-    // },
+    // ✅ Required for Stackbit Editor to load layout
+    pageLayoutComponentPath: ({ document }) => {
+        const layout = document.fields.layout?.value;
+        if (!layout) return undefined;
+        return `src/components/layouts/${layout}/index.tsx`;
+    },
     siteMap: ({ documents, models }): SiteMapEntry[] => {
         const pageModels = models.filter((model) => model.type === 'page').map((model) => model.name);
         return documents
@@ -48,17 +43,17 @@ export const config = defineStackbitConfig({
                     case 'PostFeedLayout':
                         return {
                             urlPath: '/blog',
-                            document: document
+                            document
                         };
                     case 'PostLayout':
                         return {
                             urlPath: `/blog/${slug}`,
-                            document: document
+                            document
                         };
                     default:
                         return {
                             urlPath: `/${slug}`,
-                            document: document
+                            document
                         };
                 }
             })
