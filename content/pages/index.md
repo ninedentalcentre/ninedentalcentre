@@ -23,7 +23,7 @@ sections:
       seamlessly, comfortably, confidently.
     actions:
       - type: Button
-        label: Whatsapp Now.
+        label: WhatsApp Now..
         altText: ''
         url: >-
           https://wa.me/918800743389?text=Hi%20Doctor%2C%20I%20visited%20your%20website%20and%20would%20like%20to%20know%20more%20about%20your%20dental%20treatments
