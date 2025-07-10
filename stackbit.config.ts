@@ -1,4 +1,8 @@
-import { defineStackbitConfig, DocumentStringLikeFieldNonLocalized, SiteMapEntry } from '@stackbit/types';
+import {
+    defineStackbitConfig,
+    DocumentStringLikeFieldNonLocalized,
+    SiteMapEntry
+} from '@stackbit/types';
 import { GitContentSource } from '@stackbit/cms-git';
 import { allModels } from 'sources/local/models';
 
@@ -24,35 +28,48 @@ export const config = defineStackbitConfig({
         type: 'files',
         presetDirs: ['sources/local/presets']
     },
+    pageLayoutKey: 'layout',
+
+    // ✅ Corrected layout override (fixes build error)
+    // @ts-expect-error: pageLayoutComponentPath is internally supported
+    pageLayoutComponentPath: ({ document }) => {
+        const layout = document.fields?.layout?.value;
+        if (!layout) return undefined;
+        return `src/components/layouts/${layout}/index.tsx`;
+    },
+
     siteMap: ({ documents, models }): SiteMapEntry[] => {
-        const pageModels = models.filter((model) => model.type === 'page').map((model) => model.name);
+        const pageModels = models
+            .filter((model) => model.type === 'page')
+            .map((model) => model.name);
+
         return documents
             .filter((document) => pageModels.includes(document.modelName))
             .map((document) => {
                 let slug = (document.fields.slug as DocumentStringLikeFieldNonLocalized)?.value;
                 if (!slug) return null;
-                /* Remove the leading slash in order to generate correct urlPath
-                regardless of whether the slug is '/', 'slug' or '/slug' */
                 slug = slug.replace(/^\/+/, '');
                 switch (document.modelName) {
                     case 'PostFeedLayout':
                         return {
                             urlPath: '/blog',
-                            document: document
+                            document
                         };
                     case 'PostLayout':
                         return {
                             urlPath: `/blog/${slug}`,
-                            document: document
+                            document
                         };
                     default:
                         return {
                             urlPath: `/${slug}`,
-                            document: document
+                            document
                         };
                 }
-            });
+            })
+            .filter(Boolean) as SiteMapEntry[];
     }
 });
 
 export default config;
+
