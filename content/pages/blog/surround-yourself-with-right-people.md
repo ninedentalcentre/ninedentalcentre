@@ -1,7 +1,7 @@
 ---
 title: Child Dentistry – Caring for Your Child’s Smile from the Start
 slug: surround-yourself-with-right-people
-date: '2025-03-26'
+date: '2025-08-19'
 excerpt: >-
   Best Pediatric Dentist in Mohan Garden, Delhi | Nine Dental CentreYour child’s
   smile is precious — and deserves expert care from the very beginning. At Nine
