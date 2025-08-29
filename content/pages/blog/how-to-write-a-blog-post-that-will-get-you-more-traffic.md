@@ -2,7 +2,7 @@
 type: PostLayout
 title: ✨ Teeth Whitening & Cleaning – Brighten Your Smile Today
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: '2025-06-18'
+date: '2025-07-18'
 excerpt: >-
   Shine Bright at Nine Dental Centre, Mohan Garden, Delhi . Want a fresher,
   cleaner, whiter smile? At Nine Dental Centre, Mohan Garden, we offer
