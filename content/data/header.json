@@ -27,18 +27,18 @@
             "altText": "Our Services "
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "Doctors",
+            "altText": "Doctors",
+            "url": "/Doctors",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Doctors",
-            "altText": "Doctors",
-            "url": "/Doctors",
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
