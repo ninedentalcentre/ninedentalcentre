@@ -1,7 +1,7 @@
 ---
 title: 'Braces vs Aligners: Which Is Right for You?'
 slug: top-ten-lessons-we-learned
-date: '2025-06-02'
+date: '2025-08-02'
 excerpt: ''
 featuredImage:
   url: /images/braces-aligner-2.jpg
