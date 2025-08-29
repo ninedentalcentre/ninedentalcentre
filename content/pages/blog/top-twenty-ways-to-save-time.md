@@ -1,7 +1,7 @@
 ---
 title: Wisdom Tooth Extraction & Oral Surgery at Nine Dental Centre
 slug: top-twenty-ways-to-save-time
-date: '2025-09-25'
+date: '2025-09-20'
 excerpt: >-
   Safe, Painless Surgical Tooth Removal in Mohan Garden, DelhiAre you
   experiencing pain or swelling at the back of your mouth? It might be your
