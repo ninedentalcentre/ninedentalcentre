@@ -1,7 +1,7 @@
 ---
 title: Root Canal Treatment (RCT) – Everything You Need to Know
 slug: life-of-our-development-team
-date: '2025-01-15'
+date: '2025-08-15'
 excerpt: >-
   Tooth pain ruining your day? You might need a Root Canal Treatment (RCT) — a
   simple and effective way to save your natural tooth and get rid of pain.
